@@ -5,3 +5,6 @@ But maybe this will work now
 Hello, this is Vivian
 
 Trying to cause a second merge conflict! Here!
+
+From my computer, I added this line oblivious to the recent 
+change from the browswer. Merge conflict?
